@@ -8,8 +8,8 @@ I'm Vishal Raj, a data scientist with a passion for machine learning, optimizati
 - :raised_back_of_hand: I’m looking to collaborate on open-source projects and research focused on machine learning. Feel free to reach out if you think I can help you.
 - :pencil: I enjoy writing and creating tutorials about data science. You can check out my articles on [Medium](https://vishalraj247.medium.com/).
 - :computer: I'm currently working on several projects, including:
-  - [Project 1](https://github.com/vishalraj247/ANLP_Retail_Crisis_Detection) - NLP system capable of automatically identifying potential crises.
-  - [Project 2](https://github.com/vishalraj247/CoAuthorViz_Dashboard) - Analysis of keystroke data of writers co-authorship with GPT-3 and visualising the results.
+  - [Retail_Crisis_Detection](https://github.com/vishalraj247/ANLP_Retail_Crisis_Detection) - NLP system capable of automatically identifying potential crises.
+  - [CoAuthorViz_Dashboard](https://github.com/vishalraj247/CoAuthorViz_Dashboard) - Analysis of keystroke data of writers co-authorship with GPT-3 and visualising the results.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
