@@ -23,6 +23,6 @@ I'm Vishal Raj, a data scientist with a passion for machine learning, optimizati
 ### :mailbox: Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/vishal-raj-vr/"><img src="https://img.shields.io/badge/-Your Name-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://vishalraj247.medium.com/"><img src="https://img.shields.io/badge/-Your Name-05122A?style=flat&logo=medium&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/vishal-raj-vr/"><img src="https://img.shields.io/badge/-Vishal Raj-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://vishalraj247.medium.com/"><img src="https://img.shields.io/badge/-Vishal Raj-05122A?style=flat&logo=medium&logoColor=white"/></a>
 </p>
