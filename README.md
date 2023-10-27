@@ -16,7 +16,7 @@ I'm Vishal Raj, a data scientist with a passion for machine learning, optimizati
 <p align="center">
 <a href="https://github.com/vishalraj247">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishalraj247&show_icons=true&include_all_commits=true&hide_title=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalraj247&layout=compact&langs_count=2&hide_title=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalraj247&layout=compact&langs_count=4&hide_title=true"/>
 </a>
 </p>
 
