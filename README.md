@@ -7,7 +7,7 @@ I'm Vishal Raj, a data scientist with a passion for machine learning, optimizati
 - 🔭 I’m currently interested in data science-related projects, such as machine learning, NLPs, Data Pipelines, Deep Learning, and GPT Models.
 - :raised_back_of_hand: I’m looking to collaborate on open-source projects, and research focused on machine learning. Feel free to reach out if you think I can help you.
 - :pencil: I enjoy writing and creating tutorials about data science. You can check out my articles on [Medium](https://vishalraj247.medium.com/).
-- :computer: I'm currently working on several projects, including:
+- :computer: I recently worked on several projects, including:
   - [ABN_Lookup_Tool](https://github.com/vishalraj247/ABN_Lookup_Tool) - ABN Lookup Tool for extracting business names with the help of GPT-3.5/4 & ABN Lookup APIs.
   - [CoAuthorViz_Dashboard](https://github.com/vishalraj247/CoAuthorViz_Dashboard) - Analysis of keystroke data of writers co-authorship with GPT-3 and visualising the results.
 
