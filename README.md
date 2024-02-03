@@ -1,4 +1,4 @@
-![alt text](https://github.com/vishalraj247/vishalraj247/blob/main/`cover_photo.webp?raw=true)
+![alt text](https://github.com/vishalraj247/vishalraj247/blob/main/cover_photo.png?raw=true)
 ### Hi there 👋
 
 
