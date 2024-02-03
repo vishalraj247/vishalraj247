@@ -1,3 +1,4 @@
+
 ### Hi there 👋
 
 
@@ -14,13 +15,13 @@ I'm Vishal Raj, a data scientist deeply engaged with machine learning, data visu
 
 ### 🛠️ Skills
 
-    🐍 Python
-    💾 SQL
-    ☁️ Azure
-    ❄️ Snowflake
-    🌐 Web Development (Streamlit)
-    📊 Natural Language Processing (NLP)
-    📚 Databricks
+  🐍 Python
+  💾 SQL
+  ☁️ Azure
+  ❄️ Snowflake
+  🌐 Web Development (Streamlit)
+  📊 Natural Language Processing (NLP)
+  📚 Databricks
 
 ### ⚙️ &nbsp;GitHub Analytics
 
