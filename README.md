@@ -50,6 +50,6 @@ I'm Vishal Raj, a data scientist deeply engaged with machine learning, data visu
 ### :mailbox: Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/vishal-raj-vr/"><img src="https://img.shields.io/badge/-Vishal Raj-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://vishalraj247.medium.com/"><img src="https://img.shields.io/badge/-Vishal Raj-05122A?style=flat&logo=medium&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/vishal-raj-vr/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://vishalraj247.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
