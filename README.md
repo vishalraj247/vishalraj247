@@ -15,7 +15,7 @@ I'm Vishal Raj, a data scientist deeply engaged with machine learning, data visu
 
 ### 🛠️ Skills
 
-  🐍 Python
+  <img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue}" />
   💾 SQL
   ☁️ Azure
   ❄️ Snowflake
