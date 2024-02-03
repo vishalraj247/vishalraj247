@@ -12,7 +12,15 @@ I'm Vishal Raj, a data scientist deeply engaged with machine learning, data visu
   - [ABN_Lookup_Tool](https://github.com/vishalraj247/ABN_Lookup_Tool) - ABN Lookup Tool for extracting business names with the help of GPT-3.5/4 & ABN Lookup APIs.
   - [CoAuthorViz_Dashboard](https://github.com/vishalraj247/CoAuthorViz_Dashboard) - Analysis of keystroke data of writers co-authorship with GPT-3 and visualising the results.
 
-### 
+### 🛠️ Skills
+
+    🐍 Python
+    💾 SQL
+    ☁️ Azure
+    ❄️ Snowflake
+    🌐 Web Development (Streamlit)
+    📊 Natural Language Processing (NLP)
+    📚 Databricks
 
 ### ⚙️ &nbsp;GitHub Analytics
 
